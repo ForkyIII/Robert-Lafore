@@ -31,7 +31,7 @@ In this chapter loops and decisions statements are introduced. This chapter teac
 |---------|-------|--------|--------|--------|
 |1.|126|Table of multiples|[C++](./phoenix/Chapter-3/1.cpp)|[source](./ramoun/chapter_)
 |2.|126|Temp. Conversion|[C++](./phoenix/Chapter-3/2.cpp)|[source](./ramoun/chapter_)
-|3.|126|Displaying numbers|[C++](./phoenix/Chapter-3/3.cpp)|[source](./ramoun/chapter_)
+|3.|126|Convert Digits to Numbers|[C++](./phoenix/Chapter-3/3.cpp)|[source](./ramoun/chapter_)
 |4.|127|Fraction Calculator|[C++](./phoenix/Chapter-3/4.cpp)|[source](./ramoun/chapter_)
 |5.|127|X Pyramid|[C++](./phoenix/Chapter-3/5.cpp)|[source](./ramoun/chapter_)
 |6.|127|Factorial|[C++](./phoenix/Chapter-3/6.cpp)|[source](./ramoun/chapter_)
