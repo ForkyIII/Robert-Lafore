@@ -14,8 +14,8 @@ int main()
     // new system
     // pnd = 100 pnc
     //
-    // 5.2.8 £ -> 2*12 = 24 + 8 = 32 -> 5.32
-    
+    // 5.2.8 ï¿½ -> 2*12 = 24 + 8 = 32 -> 5.32
+
     float pounds, shillings, pence;
 	cout << "Enter pounds: ";
 	cin >> pounds;
@@ -26,8 +26,7 @@ int main()
 
 	float pence_to_pounds =  (pence / (12 * 20));
 	float shillings_to_pounds = shillings / 20;
-	float totalPounds = pounds + pence_to_pounds +
-                        shillings_to_pounds;
+	float totalPounds = pounds + pence_to_pounds + shillings_to_pounds;
 
 	cout << "Decimal Pounds: " << '\x15c' << totalPounds;
 

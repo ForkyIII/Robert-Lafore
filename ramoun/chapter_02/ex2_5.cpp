@@ -5,11 +5,15 @@
 
 using namespace std;
 
-int main() {
+int main()
+    {
     char character, answer;
+
     cout << "Enter a char: ";
     cin >> character;
+
     answer = int (islower(character));
     cout << "answer: " << answer << endl;
+
     return 0;
-}
+    }
