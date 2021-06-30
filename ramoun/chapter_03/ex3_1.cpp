@@ -1,28 +1,45 @@
 // ex3_1.cpp
-// multiplication table
+// displays multiples of a number
 
 #include <iostream>
+#include <iomanip>
 
 using namespace std;
 
+void another_sln()
+    {
+    int multiplyer;
+
+    cout << "Enter a number: ";
+    cin  >> multiplyer;
+
+    for (int i=1; i<=20; i++) {
+
+        for (int j=1; j<=10; j++) {
+            cout << setw(7) << multiplyer * i * j;
+        }
+        cout << endl;
+    }
+    }
+    
 int main()
     {
-    float dpounds;
+    int multiplyer;
+    
+    cout << "Enter a number: ";
+    cin  >> multiplyer;
+    
+    for (int i=1; i<=200; i++) {
+        cout << setw(7) << multiplyer * i;
+        if (i%10 == 0) {
+            cout << endl;
+        }
+    }
 
-    cout << "Enter Decimal: ";
-    cin >> dpounds;
-
-    int pounds = static_cast<int>(dpounds);
-    float remainder = dpounds - pounds;
-
-    float dshillings = remainder * 20;
-    int shillings = static_cast<int>(dshillings);
-    remainder = dshillings - shillings;
-
-    float dpence = remainder * 12;
-    int pence = static_cast<int>(dpence);
-
-    cout << pounds << '.' << shillings << '.' << pence;
+    another_sln();
+    
     return 0;
     }
+    
+
 
