@@ -1,5 +1,5 @@
 // ex3_1.cpp
-// displays multiples of a number
+// multiplication table
 
 #include <iostream>
 #include <iomanip>
