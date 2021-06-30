@@ -6,7 +6,7 @@ Solutions to exercises.
 
 ## Chapter 2: C++ Programming Basics
 
-This chapter introduces some basic fundamentals to write some elementry program in C++. It introduces three such fundamentals: basic programming construction, variables, and input/output (I/O).
+This chapter introduces some basic fundamentals to write elementry programs in C++. It introduces three such fundamentals: basic programming construction, variables, and input/output (I/O).
 
 |Ques. No.|Pg. No.|Question|Solution|Ramoun's|
 |---------|-------|--------|--------|--------|
@@ -25,22 +25,22 @@ This chapter introduces some basic fundamentals to write some elementry program 
 
 ## Chapter 3: Loops and Decisions
 
-In this chapter loops and decisions statements are introduced. This chapter teaches us some fundamentals of loop and decisions along with some detail descritions.
+In this chapter loops and decisions statements are introduced. This chapter teaches us some fundamentals of loop and decisions along with some other flow control statements.
 
 |Ques. No.|Pg. No.|Question|Solution|Ramoun's|
 |---------|-------|--------|--------|--------|
-|1.|126|Table of multiples|[C++](./phoenix/Chapter-3/1.cpp)|[source](./ramoun/chapter_)
-|2.|126|Temp. Conversion|[C++](./phoenix/Chapter-3/2.cpp)|[source](./ramoun/chapter_)
-|3.|126|Convert Digits to Numbers|[C++](./phoenix/Chapter-3/3.cpp)|[source](./ramoun/chapter_)
-|4.|127|Fraction Calculator|[C++](./phoenix/Chapter-3/4.cpp)|[source](./ramoun/chapter_)
-|5.|127|X Pyramid|[C++](./phoenix/Chapter-3/5.cpp)|[source](./ramoun/chapter_)
-|6.|127|Factorial|[C++](./phoenix/Chapter-3/6.cpp)|[source](./ramoun/chapter_)
-|7.|127|Compound Interest|[C++](./phoenix/Chapter-3/7.cpp)|[source](./ramoun/chapter_)
-|8.|128|Currency addition|[C++](./phoenix/Chapter-3/8.cpp)|[source](./ramoun/chapter_)
-|9.|128|Party problem|[C++](./phoenix/Chapter-3/9.cpp)|[source](./ramoun/chapter_)
-|10.|128|Compound Interest inverse|[C++](./phoenix/Chapter-3/10.cpp)|[source](./ramoun/chapter_)
-|11.|128|3-function calculator|[C++](./phoenix/Chapter-3/11.cpp)|[source](./ramoun/chapter_)
-|12.|129|Fraction Calculator|[C++](./phoenix/Chapter-3/12.cpp)|[source](./ramoun/chapter_)
+|1.|126|Multiples of a Number (20*10)|[C++](./phoenix/Chapter-3/1.cpp)|[source](./ramoun/chapter_03/ex3_1.cpp)
+|2.|126|Temprature Converter|[C++](./phoenix/Chapter-3/2.cpp)|[source](./ramoun/chapter_03/ex3_2.cpp)
+|3.|126|Convert Digits to Numbers|[C++](./phoenix/Chapter-3/3.cpp)|[source](./ramoun/chapter_03/ex3_3.cpp)
+|4.|127|Four-Function Calculator|[C++](./phoenix/Chapter-3/4.cpp)|[source](./ramoun/chapter_03/ex3_4.cpp)
+|5.|127|Star Pyramid|[C++](./phoenix/Chapter-3/5.cpp)|[source](./ramoun/chapter_03/ex3_5.cpp)
+|6.|127|Factorial|[C++](./phoenix/Chapter-3/6.cpp)|[source](./ramoun/chapter_03/ex3_6.cpp)
+|7.|127|Compound Interest Calculator|[C++](./phoenix/Chapter-3/7.cpp)|[source](./ramoun/chapter_03/ex3_7.cpp)
+|8.|128|Currency Adder|[C++](./phoenix/Chapter-3/8.cpp)|[source](./ramoun/chapter_03/ex3_8.cpp)
+|9.|128|Chairs & Guests Combinations|[C++](./phoenix/Chapter-3/9.cpp)|[source](./ramoun/chapter_03/ex3_9.cpp)
+|10.|128|Compound Interest Inverse|[C++](./phoenix/Chapter-3/10.cpp)|[source](./ramoun/chapter_03/ex3_10.cpp)
+|11.|128|3-Function Calculator|[C++](./phoenix/Chapter-3/11.cpp)|[source](./ramoun/chapter_03/ex3_11.cpp)
+|12.|129|Fraction Calculator|[C++](./phoenix/Chapter-3/12.cpp)|[source](./ramoun/chapter_03/ex3_12.cpp)
 
 ## Chapter 4: Structures
 
