@@ -118,6 +118,6 @@ In this chapter we’ll look first at arrays of basic data types such as int and
 |11.|316|Convert Number|[C++](./phoenix/Chapter-7/11.cpp)|
 |12.|317|String to long doube|[C++](./phoenix/Chapter-7/12.cpp)|
 
-## Chapter 8:
+## Chapter 8
 
 In this chapter we’ll look first at arrays of basic data types such as int and char . Then we’ll examine arrays used as data members in classes, and arrays used to hold objects. Thus this chapter is intended not only to introduce arrays, but to increase your understanding of object-oriented programming.
