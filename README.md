@@ -39,8 +39,10 @@ In this chapter loops and decisions statements are introduced. This chapter teac
 |8.|128|Currency Adder|[C++](./phoenix/Chapter-3/8.cpp)|[source](./ramoun/chapter_03/ex3_8.cpp)
 |9.|128|Chairs & Guests Combinations|[C++](./phoenix/Chapter-3/9.cpp)|[source](./ramoun/chapter_03/ex3_9.cpp)
 |10.|128|Compound Interest Inverse|[C++](./phoenix/Chapter-3/10.cpp)|[source](./ramoun/chapter_03/ex3_10.cpp)
-|11.|128|3-Function Calculator|[C++](./phoenix/Chapter-3/11.cpp)|[source](./ramoun/chapter_03/ex3_11.cpp)
+|11.|128|3-Function Calculator*|[C++](./phoenix/Chapter-3/11.cpp)|[source](./ramoun/chapter_03/ex3_11.cpp)
 |12.|129|Fraction Calculator|[C++](./phoenix/Chapter-3/12.cpp)|[source](./ramoun/chapter_03/ex3_12.cpp)
+
+> *3-Function Calculator has only 2 operations.
 
 ## Chapter 4: Structures
 
