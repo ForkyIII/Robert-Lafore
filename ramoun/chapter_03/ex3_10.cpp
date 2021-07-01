@@ -15,7 +15,7 @@ int main()
     do {
         cout << "Enter Final Amount: ";
         cin  >> famount;
-        
+
         cout << "Enter initial Amount: ";
         cin  >> iamount;
 

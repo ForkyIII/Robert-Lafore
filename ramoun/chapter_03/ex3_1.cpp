@@ -21,14 +21,14 @@ void another_sln()
         cout << endl;
     }
     }
-    
+
 int main()
     {
     int multiplyer;
-    
+
     cout << "Enter a number: ";
     cin  >> multiplyer;
-    
+
     for (int i=1; i<=200; i++) {
         cout << setw(7) << multiplyer * i;
         if (i%10 == 0) {
@@ -37,9 +37,9 @@ int main()
     }
 
     another_sln();
-    
+
     return 0;
     }
-    
+
 
 

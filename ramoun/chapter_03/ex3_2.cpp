@@ -1,5 +1,7 @@
 // ex3_2.cpp
 // temperature-conversion
+// converts fahrenheit to centigrad, or
+// centigrad to fahrenheit
 
 #include <iostream>
 
@@ -11,12 +13,11 @@ int main()
     // equations
     // c = (f - 32) * 5 / 9;
     // f = (1.8 * c) + 32;
-    
+
     unsigned short opt;
     float c, f;
-    
-    while(1) {
 
+    while(1) {
         cout << "Type 1 to convert Fahrenheit to Celsius," << endl
              << "     2 to convert Celsius to Fahrenheit," << endl
              << "     3 to exit: ";
@@ -43,7 +44,7 @@ int main()
             default:
                  cout << "invalid input" << endl;
         }
-        }
+     }
     return 0;
     }
 
